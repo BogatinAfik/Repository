@@ -1,0 +1,7 @@
+body {
+    font-family: varela;
+}
+  @font-face{
+    font-family: varela;
+    src:url(VarelaRound-Regular.ttf)
+  }

@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% set page_head_title = 'cart' %}
+
+{% block page_head_css %}
+     <link rel="stylesheet" href="{{ url_for('cart.static', filename='css/cartStyle.css') }}"/>
+{% endblock %}
+
+{% block page_body_main_content %}
+
+    {% if error %}
+    <p class="error"> שגיאה: {{ error }} </p>
+    {% endif %}
+
+        <div class="gridContainer">
+             <div class="item1">
+                <table class ="table">
+                    <tr>
+                      <th>כמות</th>
+                      <th>יחידות</th>
+                      <th>מחיר</th>
+                      <th>מוצר</th>
+
+                     <form method = "POST" action ="/createOrder">
+                     <input name = "SupplierID" value = "{{products[0].SupplierID}}" type="hidden">
+                         {%  for product in products %}
+                        <!-- products -->
+                        <tr class="item2">
+                            <td><input name = "{{ product.ProductID }}" type="number" min = "0" max = "100"  value="0" style="width: 100%;"></td>
+                            <td> {{product.Type }} </td>
+                            <td  id = "price"> ₪{{product.Price}}0</td>
+                            <td> {{product.ProductName }} </td>
+
+
+                        </tr>
+                        {% endfor %}
+                  </table>
+                        <br><br>
+                        <a style="justify-self: center;"><button>הזמן</button></a>
+                    </form>
+            </div>
+        </div>
+{% endblock %}
+
+
+
+
