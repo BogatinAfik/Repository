@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% set page_head_title = 'login' %}
+
+{% block page_head_css %}
+    <link rel="stylesheet" href="{{ url_for('login.static', filename='css/css-login page.css') }}"/>
+{% endblock %}
+
+{% block page_body_main_content %}
+
+    {% if error %}
+    <p class="error"> שגיאה: {{ error }} </p>
+    {% endif %}
+
+     <form action="/login_user" method="POST">
+
+        <div class="container">
+            <div class="imgcontainer">
+                <img src="{{ url_for ('login.static', filename='media/truck.png') }}"  style= "margin: 10px" class="avatar">
+            </div>
+          {% if session.login != True %}
+          <label for="email"><b>אימייל</b></label> <br>
+          <input type="text" placeholder="הכנס אימייל" name="email" required> <br>
+
+          <label for="psw"><b>סיסמה</b></label> <br>
+          <input type="password" placeholder="הכנס סיסמה" name="psw" required> <br>
+
+          <button type="submit" class="registerbtn">התחבר</button> <br>
+            <div class="container signin">
+            <a class ="link" href='registration' >צור משתמש </a> <br> <br>
+            </div>
+        </div>
+        {% endif %}
+    </form>
+    {% if session.login == True %}
+     <form  action="/logout_user">
+         <button type="submit" class="registerbtn">התנתק</button> <br><br>
+     </form>
+    <div>
+            <a class ="link" href='update_user' >עדכן פרטי משתמש  </a><br><br>
+        </div>
+    {% endif %}
+
+
+
+
+
+{% endblock %}
+
+

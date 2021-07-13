@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="{{ url_for('footer.static', filename='css/footerStyle.css') }}"/>
+
+{%
+    set menu_items = {
+        'homepage': '/',
+        'suppliers': url_for('suppliers.index'),
+        'notification': url_for('notification.index'),
+    }
+%}
+<footer>
+        <p>המטבח: 08237362<br>
+        email | hametbach@sfsd.il
+        </p>
+        <a href="Contact page.html" target="_self" ><img id="mail-icon" src="email.png" alt ="Mail" width="2%" ></a>
+    </footer>

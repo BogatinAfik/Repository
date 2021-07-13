@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% set page_head_title = 'update_user' %}
+
+{% block page_head_css %}
+    <link rel="stylesheet" href="{{ url_for('update_user.static', filename='css/css-update_user.css') }}">
+{% endblock %}
+
+{% block page_body_main_content %}
+    {% if success %}
+        <p class="success"> <b>{{ success }} </b></p>
+    {% endif %}
+    <form method="POST" action="/update_user">
+      <div class="container">
+          <h1>עדכן משתמש</h1>
+          <hr>
+          <label for="first_name"><b>שם פרטי</b></label> <br>
+
+          <input type="text" value= {{ customerInfo[0].first_name }} name="first_name" id="first_name" required="required">  <br>
+
+
+          <label for="last_name"><b>שם משפחה</b></label> <br>
+          <input type="text" value= {{ customerInfo[0].last_name }} name="last_name" id="last_name"  required="required"> <br>
+
+          <label for="phone"><b>נייד</b></label> <br>
+          <input type="text" value= {{ customerInfo[0].phone }} name="phone" id="phone" required="required"
+                 pattern="05[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]" oninvalid="alert('אנא הזן מספר נייד תקין ********05');">  <br>
+
+          <label for="email"><b>דוא"ל</b></label> <br>
+          <input type="text" value= {{ customerInfo[0].email }} name="email" id="email"  required="required" input pattern="[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$"
+          oninvalid="alert('האימייל צריך להיות בפורמט תקין');">  <br>
+
+          <label for="psw"><b>סיסמה</b></label> <br>
+          <input type="password" value= {{ customerInfo[0].password }} name="psw" id="psw" required="required"   pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{4,}"
+          oninvalid="alert('הסיסמה צריכה להכיל לפחות אות גדולה ואות קטנה באנגלית, ספרה ולפחות 4 תווים ');"><br>
+          <a><button type="submit" class="registerbtn"> עדכן משתמש </button></a>
+     </div>
+    </form>
+
+
+
+{% endblock %}
+
+

@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+
+{% set page_head_title = 'checkout' %}
+
+{% block page_head_css %}
+        <link rel="stylesheet" href="{{url_for('checkout.static', filename='css/cartStyle.css')}}"/>
+            <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>shopping checkout</title>
+
+
+{% endblock %}
+
+{% block page_body_main_content %}
+
+
+        <div class="gridContainer">
+             <div class="item1">
+                <table class = "table" >
+                    <tr>
+                      <th>סה"כ</th>
+                      <th>כמות</th>
+                      <th>יחידות</th>
+                      <th>מחיר ליחידה</th>
+                      <th>מוצר</th>
+
+                    </tr>
+
+                      <tr>
+                         {%  for product in productInOrder %}
+                        <!-- products -->
+                        <tr class="item2">
+                            <td> {{ product.TotalPrice }}</td>
+                            <td> {{ product.Quantity }}</td>
+                            <td> {{product.Type }} </td>
+                            <td  id = "price"> ₪{{product.Price}}0</td>
+                            <td> {{product.ProductName }} </td>
+                        </tr>
+                        {% endfor %}
+                  </table>
+
+                    <div class="total">
+                        <h1>₪{{TotalPrice}}0 :סכום לתשלום </h1>
+                    </div>
+
+
+
+                     <form method = "POST" action ="/sendOrder">
+                        <div class = "Comment">
+                            <textarea name = "Comment"  placeholder="הוסף הערה להזמנה" style = "height: 150%; text-align: center"></textarea>
+                        </div> <br> <br> <br>
+
+                      <span class = buttons>
+                         <input name = "orderID" value = "{{ productInOrder[0].OrderID }}" type="hidden">
+                            <a style="align-content: center; display: inline-block"><button onclick="alert('הזמנתך התקבלה!')">סיים הזמנה </button></a>
+                     </form>
+
+                        <form method = "POST" action ="/cancelOrder">
+                            <input name = "orderID" value = "{{ productInOrder[0].OrderID }}" type="hidden">
+                            <a style="align-content: center; padding: 10px;"><button onclick="alert('הזמנתך בוטלה!')">בטל הזמנה</button></a>
+                        </form>
+
+
+                      </span>
+            </div>
+        </div>
+{% endblock %}
+
+
+
+

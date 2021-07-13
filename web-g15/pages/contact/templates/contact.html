@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% set page_head_title = 'contact' %}
+
+{% block page_head_css %}
+    <link rel="stylesheet" href="{{ url_for('contact.static', filename='css/css-Contct page.css') }}"/>
+{% endblock %}
+
+{% block page_body_main_content %}
+        {% if success %}
+            <p class="success"> <b>{{ success }} </b></p>
+        {% endif %}
+       <div class="container">
+        <form action="/contact_us" method="post">
+
+          <img src="{{ url_for ('contact.static', filename='media/phone icon.png') }}" style= "margin: 10px" class="avatar">
+          <h1> צור קשר</h1>
+          <label for="first_name">שם פרטי</label> <br><br>
+          <input type="text" id="first_name" name="first_name" value ="{{ session['name'] }}" placeholder="..הכנס את שמך הפרטי" required> <br> <br>
+
+          <label for="last_name">שם משפחה</label> <br><br>
+          <input type="text" id="last_name" name="last_name" value ="{{ session['last_name'] }}"  placeholder="..הכנס את שם המשפחה" required> <br> <br>
+
+          <label for="email"> מייל </label><br><br>
+          <input type="text" placeholder='הכנס כתובת דוא"ל' name="email" id="email"  value ="{{ session['email'] }}" required="required" input pattern="[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$"
+          oninvalid="alert('האימייל צריך להיות בפורמט תקין');">  <br>
+
+          <label for="message">נושא</label> <br><br>
+          <textarea id="message" name="message" placeholder="..כתוב את פנייתך" style="height:200px" required></textarea> <br>
+
+
+
+          <a><button type="submit" class="submitbtn"> שלח</button></a>
+
+        </form>
+      </div>
+{% endblock %}
