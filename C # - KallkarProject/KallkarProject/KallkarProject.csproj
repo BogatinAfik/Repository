@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7DBD5965-A1DD-48E5-90C0-3B0779FE37F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KallkarProject</RootNamespace>
+    <AssemblyName>KallkarProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\Area.cs" />
+    <Compile Include="EmployeeForms\arrange_shipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\arrange_shipment.Designer.cs">
+      <DependentUpon>arrange_shipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\Ask_For_New_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\Ask_For_New_Product.Designer.cs">
+      <DependentUpon>Ask_For_New_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Category.cs" />
+    <Compile Include="Enum\ApprovalStatus.cs" />
+    <Compile Include="classes\compareByTargetDate.cs" />
+    <Compile Include="EmployeeForms\document_orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\document_orders.Designer.cs">
+      <DependentUpon>document_orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\EmployeesInFactory.cs" />
+    <Compile Include="EmployeeForms\Employee_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Employee_login.Designer.cs">
+      <DependentUpon>Employee_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\Employee_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Employee_Menu.Designer.cs">
+      <DependentUpon>Employee_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\exsist_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\exsist_customer.Designer.cs">
+      <DependentUpon>exsist_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\InformationNotValid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\InformationNotValid.Designer.cs">
+      <DependentUpon>InformationNotValid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_form.Designer.cs">
+      <DependentUpon>main_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\makeNewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\makeNewOrder.Designer.cs">
+      <DependentUpon>makeNewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\MakeProductionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\MakeProductionReport.Designer.cs">
+      <DependentUpon>MakeProductionReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\manage_storage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\manage_storage.Designer.cs">
+      <DependentUpon>manage_storage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\MyOrders_ForUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\MyOrders_ForUpdate.Designer.cs">
+      <DependentUpon>MyOrders_ForUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\NewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\NewProduct.Designer.cs">
+      <DependentUpon>NewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\new_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\new_customer.Designer.cs">
+      <DependentUpon>new_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\orderFromCatalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\orderFromCatalog.Designer.cs">
+      <DependentUpon>orderFromCatalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\OrderInArea.cs" />
+    <Compile Include="EmployeeForms\OrderMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\OrderMenu.Designer.cs">
+      <DependentUpon>OrderMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\ProductInOrder.cs" />
+    <Compile Include="Enum\customerType.cs" />
+    <Compile Include="Enum\OrderStatus.cs" />
+    <Compile Include="EmployeeForms\ProductMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\ProductMenu.Designer.cs">
+      <DependentUpon>ProductMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mati.Designer.cs">
+      <DependentUpon>mati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program1.cs" />
+    <Compile Include="EmployeeForms\Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enum\Role.cs" />
+    <Compile Include="classes\Employee.cs" />
+    <Compile Include="classes\Customer.cs" />
+    <Compile Include="Enum\Gender.cs" />
+    <Compile Include="classes\kalkarFactory.cs" />
+    <Compile Include="classes\Machine.cs" />
+    <Compile Include="Enum\MachineStatus.cs" />
+    <Compile Include="Enum\MachineType.cs" />
+    <Compile Include="classes\Product.cs" />
+    <Compile Include="SADM_4DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SADM_4DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\SearchOrder_byCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\SearchOrder_byCustomer.Designer.cs">
+      <DependentUpon>SearchOrder_byCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\SearchOrder_ByDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\SearchOrder_ByDate.Designer.cs">
+      <DependentUpon>SearchOrder_ByDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\SendEmail.cs" />
+    <Compile Include="classes\Settings.cs" />
+    <Compile Include="EmployeeForms\Shipment_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Shipment_Report.Designer.cs">
+      <DependentUpon>Shipment_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\showProductinOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\showProductinOrder.Designer.cs">
+      <DependentUpon>showProductinOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Storage.cs" />
+    <Compile Include="CustomerForms\customersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\customersForm.Designer.cs">
+      <DependentUpon>customersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Order.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="classes\Shipment.cs" />
+    <Compile Include="classes\SQL_CON .cs" />
+    <Compile Include="classes\Truck.cs" />
+    <Compile Include="CustomerForms\update_customer_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\update_customer_information.Designer.cs">
+      <DependentUpon>update_customer_information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\Update_Emp_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Update_Emp_Information.Designer.cs">
+      <DependentUpon>Update_Emp_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\Update_My_Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\Update_My_Orders.Designer.cs">
+      <DependentUpon>Update_My_Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\Update_product_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Update_product_details.Designer.cs">
+      <DependentUpon>Update_product_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeForms\Update_Product_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeForms\Update_Product_Menu.Designer.cs">
+      <DependentUpon>Update_Product_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\view_orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\view_orders.Designer.cs">
+      <DependentUpon>view_orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage1.Designer.cs">
+      <DependentUpon>visualStorage1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage2.Designer.cs">
+      <DependentUpon>visualStorage2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage3.Designer.cs">
+      <DependentUpon>visualStorage3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage4.Designer.cs">
+      <DependentUpon>visualStorage4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualStoreges\visualStorage5.Designer.cs">
+      <DependentUpon>visualStorage5.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EmployeeForms\arrange_shipment.resx">
+      <DependentUpon>arrange_shipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\Ask_For_New_Product.resx">
+      <DependentUpon>Ask_For_New_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\customersForm.resx">
+      <DependentUpon>customersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\document_orders.resx">
+      <DependentUpon>document_orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\Employee_login.resx">
+      <DependentUpon>Employee_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\Employee_Menu.resx">
+      <DependentUpon>Employee_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\exsist_customer.resx">
+      <DependentUpon>exsist_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\InformationNotValid.resx">
+      <DependentUpon>InformationNotValid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_form.resx">
+      <DependentUpon>main_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\makeNewOrder.resx">
+      <DependentUpon>makeNewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\MakeProductionReport.resx">
+      <DependentUpon>MakeProductionReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\manage_storage.resx">
+      <DependentUpon>manage_storage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\MyOrders_ForUpdate.resx">
+      <DependentUpon>MyOrders_ForUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\NewProduct.resx">
+      <DependentUpon>NewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\new_customer.resx">
+      <DependentUpon>new_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\orderFromCatalog.resx">
+      <DependentUpon>orderFromCatalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\OrderMenu.resx">
+      <DependentUpon>OrderMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\ProductMenu.resx">
+      <DependentUpon>ProductMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mati.resx">
+      <DependentUpon>mati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="EmployeeForms\Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\SearchOrder_byCustomer.resx">
+      <DependentUpon>SearchOrder_byCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\SearchOrder_ByDate.resx">
+      <DependentUpon>SearchOrder_ByDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\Shipment_Report.resx">
+      <DependentUpon>Shipment_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\showProductinOrder.resx">
+      <DependentUpon>showProductinOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\update_customer_information.resx">
+      <DependentUpon>update_customer_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\Update_Emp_Information.resx">
+      <DependentUpon>Update_Emp_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\Update_My_Orders.resx">
+      <DependentUpon>Update_My_Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\Update_product_details.resx">
+      <DependentUpon>Update_product_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeForms\Update_Product_Menu.resx">
+      <DependentUpon>Update_Product_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\view_orders.resx">
+      <DependentUpon>view_orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualStoreges\visualStorage1.resx">
+      <DependentUpon>visualStorage1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualStoreges\visualStorage2.resx">
+      <DependentUpon>visualStorage2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualStoreges\visualStorage3.resx">
+      <DependentUpon>visualStorage3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualStoreges\visualStorage4.resx">
+      <DependentUpon>visualStorage4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualStoreges\visualStorage5.resx">
+      <DependentUpon>visualStorage5.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SADM_4DataSet.xsc">
+      <DependentUpon>SADM_4DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SADM_4DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SADM_4DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SADM_4DataSet.xss">
+      <DependentUpon>SADM_4DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-06-24 at 12.49.37.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02-P1010797.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

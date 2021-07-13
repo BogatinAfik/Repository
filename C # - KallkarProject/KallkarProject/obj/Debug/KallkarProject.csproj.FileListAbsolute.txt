@@ -1,0 +1,273 @@
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\shiraz koretz\Documents\ניהול מערכות מידע\שנה ב'\סמסטר ב\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Form1.resources
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Form1.resources
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\shiraz koretz\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Form1.resources
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\תואר ראשון\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\Sivan Rofe\Desktop\ניהול מערכות מידע\שנה ב\סמסטר ב\ניתוצ\חלק ג\lasttt\KallkarProject\KallkarProject\obj\Debug\KallkarProject.NewOrder.resources
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\Sivan Rofe\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.login.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.makeNewOrder.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.orderFromCatalog.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.view_orders.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_Menu.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.login.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.makeNewOrder.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.orderFromCatalog.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.update_customer_information.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.view_orders.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage1.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_login.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ProductMenu.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.document_orders.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MyOrders_ForUpdate.resources
+C:\Users\Sivan Rofe\Desktop\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.manage_storage.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.document_orders.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_login.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_Menu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.login.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.makeNewOrder.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MakeProductionReport.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.manage_storage.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MyOrders_ForUpdate.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.NewProduct.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.orderFromCatalog.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ProductMenu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.update_customer_information.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.view_orders.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage1.resources
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\פרוייקט זמני\last1\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.document_orders.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_login.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_Menu.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.login.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.makeNewOrder.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MakeProductionReport.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.manage_storage.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MyOrders_ForUpdate.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.NewProduct.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.orderFromCatalog.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ProductMenu.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.update_customer_information.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.view_orders.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage1.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage2.resources
+C:\Users\Sivan Rofe\Desktop\last1\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage3.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.document_orders.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_login.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_Menu.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.login.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.makeNewOrder.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MakeProductionReport.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.manage_storage.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MyOrders_ForUpdate.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.NewProduct.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.orderFromCatalog.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ProductMenu.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Shipment_Report.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.update_customer_information.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.view_orders.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage1.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage2.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage3.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe.config
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\bin\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csprojAssemblyReference.cache
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.customersForm.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.document_orders.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_login.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_Menu.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.InformationNotValid.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.login.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.main_form.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.makeNewOrder.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MakeProductionReport.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.manage_storage.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MyOrders_ForUpdate.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.NewProduct.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.new_customer.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.orderFromCatalog.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ProductMenu.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Properties.Resources.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Shipment_Report.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.update_customer_information.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.view_orders.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage1.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage2.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage3.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.GenerateResource.cache
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.csproj.CoreCompileInputs.cache
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exe
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.pdb
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage4.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage5.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Ask_For_New_Product.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ForgetPassword.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Reports.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.showProductinOrder.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.OrderMenu.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.SearchOrder_byCustomer.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.SearchOrder_ByDate.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_Emp_Information.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_My_Orders.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_product_details.resources
+C:\Users\Sivan Rofe\Desktop\עדכני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_Product_Menu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.arrange_shipment.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Ask_For_New_Product.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.document_orders.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_login.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Employee_Menu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.exsist_customer.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ForgetPassword.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MakeProductionReport.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.manage_storage.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.MyOrders_ForUpdate.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.NewProduct.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.OrderMenu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ProductMenu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Reports.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.SearchOrder_byCustomer.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.SearchOrder_ByDate.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Shipment_Report.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.showProductinOrder.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.update_customer_information.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_Emp_Information.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_My_Orders.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_product_details.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_Product_Menu.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage1.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage2.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage3.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage4.resources
+C:\Users\USER\Desktop\פרוייקט זמני\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage5.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.arrange_shipment.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Ask_For_New_Product.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.ForgetPassword.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.OrderMenu.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Reports.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.SearchOrder_byCustomer.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.SearchOrder_ByDate.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.showProductinOrder.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_Emp_Information.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_My_Orders.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_product_details.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.Update_Product_Menu.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage4.resources
+C:\Users\USER\Desktop\KallkarProject\KallkarProject\obj\Debug\KallkarProject.visualStorage5.resources
