@@ -1,0 +1,15 @@
+.notification {
+    text-align: center;
+    font-family: varela;
+    direction: rtl;
+}
+
+#lital_pic{
+    width: 300px;
+    padding: 10px;
+}
+
+@font-face{
+    font-family: varela;
+    src:url(VarelaRound-Regular.ttf)
+  }

@@ -1,0 +1,56 @@
+.cartIcon{
+    float: left;
+    padding-top: 3px;
+    display: inline;
+
+}
+
+header {
+  background-image: url(/static/media/img/headerImg/hedaerBack.jpg);
+  background-size: cover;
+  font-family:my;
+  color: bisque;
+  border-bottom:2px solid black;
+}
+
+header h1{  
+  font-size:300%;
+  color: white;
+  transform:translate(00px,-20px);
+}
+
+
+  .nav {
+
+    overflow: hidden;
+    text-align: center;
+
+  }
+
+  /* Style the links inside the navigation bar */
+  .nav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+
+  /* Change the color of links on hover */
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  /* Add a color to the active/current link */
+  .nav a.active {
+    background-color: burlywood;
+    color: white;
+  }
+
+
+  @font-face{
+    font-family: my;
+    src:url(DanaYadAlefAlefAlef-Normal.otf) ;
+}
+
